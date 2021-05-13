@@ -24,7 +24,7 @@ Example:
 
 brand name: Walton
 device codename: Walpad G3
-Copy working/Infinix/X688C to device/walton/Walpad g3 in TWRP sources
+Copy working/walton/Walpad g3 to device/walton/Walpad g3 in TWRP sources
 Building
 Open a terminal with the current dir pointing to TWRP sources root
 Then type
