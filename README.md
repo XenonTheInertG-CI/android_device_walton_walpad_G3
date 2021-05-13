@@ -22,9 +22,9 @@ Move device tree to TWRP sources
 Copy working/(brand)/(device) folder to device/(brand)/(device) folder in TWRP sources
 Example:
 
-brand name: Infinix 
-device codename: X688C
-Copy working/Infinix/X688C to device/xiaomi/whyred in TWRP sources
+brand name: Walton
+device codename: Walpad G3
+Copy working/Infinix/X688C to device/walton/Walpad g3 in TWRP sources
 Building
 Open a terminal with the current dir pointing to TWRP sources root
 Then type
